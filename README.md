@@ -87,24 +87,16 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub%20Activity-0d1117?style=for-the-badge&logo=github&logoColor=39d353"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barathfiless&theme=github-compact&bg_color=161b22&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&radius=4&custom_title=Contribution+Calendar&title_color=c9d1d9&font_color=8b949e" width="96%"/>
-
-<br/>
-
 <table>
 <tr>
-<td>
+<td align="center" width="50%">
 
-![](https://github-readme-stats.vercel.app/api?username=barathfiless&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=161b22&title_color=c9d1d9&icon_color=39d353&text_color=8b949e&border_radius=4&rank_icon=percentile&custom_title=Overview&hide=contribs)
+![](https://leetcode-stats-six.vercel.app/api?username=barathfiless&theme=dark)
 
 </td>
-<td>
+<td align="center" width="50%">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=barathfiless&layout=compact&hide_border=true&bg_color=161b22&title_color=c9d1d9&text_color=8b949e&langs_count=8&border_radius=4&custom_title=Languages)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=barathfiless&layout=compact&hide_border=true&bg_color=161b22&title_color=c9d1d9&text_color=8b949e&langs_count=6&border_radius=4&custom_title=Languages)
 
 </td>
 </tr>
@@ -112,15 +104,29 @@
 
 <br/>
 
-<img width="55%" src="https://streak-stats.demolab.com?user=barathfiless&hide_border=true&background=161B22&ring=39d353&fire=39d353&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=484f58&currStreakNum=ffffff&sideNums=ffffff&stroke=161B22&border_radius=4"/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=barathfiless&theme=github-compact&bg_color=161b22&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&radius=4&custom_title=Contribution+Activity&title_color=c9d1d9&font_color=8b949e&height=200)
 
-<br/><br/>
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total%20Contributions-64-161b22?style=flat-square&labelColor=161b22&color=39d353"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Current%20Streak-2%20days-161b22?style=flat-square&labelColor=161b22&color=ef4743&logo=github"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Longest%20Streak-2%20days-161b22?style=flat-square&labelColor=161b22&color=ffb800"/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=barathfiless&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
-
----
 
 ## Featured Projects
 
