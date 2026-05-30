@@ -6,25 +6,6 @@
 
 <div align="center">
 
-<!-- ═══════════════ OPTIMUS BOOT SEQUENCE ═══════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1600&pause=300&color=FF6B00&center=true&vCenter=true&repeat=false&width=760&lines=%E2%96%88%E2%96%88%E2%96%88+OPTIMUS+CORE+v2.0.26+%E2%96%88%E2%96%88%E2%96%88"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1400&pause=200&color=F5A623&center=true&vCenter=true&repeat=false&width=760&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+INITIALIZING+NEURAL+CORE+...+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=38BDF8&center=true&vCenter=true&repeat=false&width=760&lines=%5B+SYSTEM+%5D+........+ONLINE+%E2%9C%94"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=38BDF8&center=true&vCenter=true&repeat=false&width=760&lines=%5B+STACK+%5D+..........+MERN+%7C+FastAPI+%7C+Python+%7C+Java+%E2%9C%94"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=38BDF8&center=true&vCenter=true&repeat=false&width=760&lines=%5B+AI+CORE+%5D+.......+RAG+%7C+QLoRA+%7C+NLP+%7C+Embeddings+%E2%9C%94"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=300&color=4ADE80&center=true&vCenter=true&repeat=false&width=760&lines=%5B+STATUS+%5D+.......+ALL+SYSTEMS+OPERATIONAL+%E2%9C%94"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=500&color=FF6B00&center=true&vCenter=true&repeat=false&width=760&lines=%E2%96%B6%E2%96%B6+AUTOBOTS+...+ROLL+OUT+%F0%9F%A4%96"/>
-
-<br/>
-
-<!-- ═══════════════ LOOPING TAGLINE ═══════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=818CF8&center=true&vCenter=true&repeat=true&width=760&lines=Building+Intelligent+Fullstack+Products;MERN+%7C+FastAPI+%7C+LLMs+%7C+RAG+Pipelines;Fine-tuning+Models+with+QLoRA+%26+PEFT;Turning+Ideas+into+Shipped+Software"/>
 
 </div>
@@ -61,15 +42,12 @@ Open to **freelance work**, collaborations, and meaningful open-source contribut
 <div align="center">
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark&perline=5"/>
 
 ### Frontend & Backend
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark&perline=4"/>
 
 ### AI · ML · NLP
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=3"/>
 &nbsp;&nbsp;
 <a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e" height="44"/></a>
@@ -79,11 +57,9 @@ Open to **freelance work**, collaborations, and meaningful open-source contribut
 <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e" height="44"/></a>
 
 ### Databases
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark&perline=4"/>
 
 ### Tools · Cloud · DevOps
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode,postman&theme=dark&perline=6"/>
 
 </div>
@@ -94,24 +70,36 @@ Open to **freelance work**, collaborations, and meaningful open-source contribut
 
 <div align="center">
 
-<a href="https://github.com/barathfiless">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=barathfiless&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8&border_radius=16&rank_icon=percentile&custom_title=Barath's+GitHub+Stats"/>
-</a>&nbsp;
-<a href="https://github.com/barathfiless">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barathfiless&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=8&border_radius=16&custom_title=Most+Used+Languages"/>
-</a>
+<img src="https://img.shields.io/badge/GitHub%20Activity-0d1117?style=for-the-badge&logo=github&logoColor=39d353"/>
 
 <br/><br/>
 
-<img width="62%" src="https://streak-stats.demolab.com?user=barathfiless&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8&sideLabels=38bdf8&dates=475569&currStreakNum=e2d9f3&sideNums=e2d9f3&stroke=0D1117&border_radius=16"/>
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=barathfiless&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=f472b6&area=true&area_color=818cf8&hide_border=true&radius=16&custom_title=Contribution+Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=barathfiless&theme=github-compact&bg_color=161b22&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&radius=4&custom_title=Contribution+Calendar&title_color=c9d1d9&font_color=8b949e" width="96%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=barathfiless&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+<table>
+<tr>
+<td>
+
+![](https://github-readme-stats.vercel.app/api?username=barathfiless&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=161b22&title_color=c9d1d9&icon_color=39d353&text_color=8b949e&border_radius=4&rank_icon=percentile&custom_title=Overview&hide=contribs)
+
+</td>
+<td>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=barathfiless&layout=compact&hide_border=true&bg_color=161b22&title_color=c9d1d9&text_color=8b949e&langs_count=8&border_radius=4&custom_title=Languages)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="55%" src="https://streak-stats.demolab.com?user=barathfiless&hide_border=true&background=161B22&ring=39d353&fire=39d353&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=484f58&currStreakNum=ffffff&sideNums=ffffff&stroke=161B22&border_radius=4"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=barathfiless&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
@@ -132,7 +120,7 @@ Open to **freelance work**, collaborations, and meaningful open-source contribut
 
 Full-stack inventory platform handling **1,000+ records** with real-time stock monitoring, **20+ REST APIs**, and MongoDB query optimisation delivering **30–35% faster** data retrieval.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-818cf8?style=flat-square&logo=github&logoColor=white)](https://github.com/barathfiless)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=39d353)](https://github.com/barathfiless)
 
 </td>
 <td width="50%" valign="top">
@@ -143,7 +131,7 @@ Full-stack inventory platform handling **1,000+ records** with real-time stock m
 
 Role-based interview management for Candidates, Companies & Admins. **25+ APIs**, secure auth, and automated workflows cut manual coordination by **45%**.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-818cf8?style=flat-square&logo=github&logoColor=white)](https://github.com/barathfiless)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=39d353)](https://github.com/barathfiless)
 
 </td>
 </tr>
@@ -159,7 +147,7 @@ Role-based interview management for Candidates, Companies & Admins. **25+ APIs**
 
 Built from scratch — web crawler, content indexer, **TF-IDF** relevance ranking, and a live React search UI with query-aware snippet generation.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-818cf8?style=flat-square&logo=github&logoColor=white)](https://github.com/barathfiless)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=39d353)](https://github.com/barathfiless)
 
 </td>
 <td width="50%" valign="top">
@@ -170,7 +158,7 @@ Built from scratch — web crawler, content indexer, **TF-IDF** relevance rankin
 
 Fully local RAG pipeline — PDF ingestion, semantic chunking, **vector embeddings**, and context-aware retrieval. Zero external API dependencies.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-818cf8?style=flat-square&logo=github&logoColor=white)](https://github.com/barathfiless)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=39d353)](https://github.com/barathfiless)
 
 </td>
 </tr>
@@ -186,7 +174,7 @@ Fully local RAG pipeline — PDF ingestion, semantic chunking, **vector embeddin
 
 Keyword extraction and **TF-IDF scoring** pipeline that generates ATS compatibility scores — helping candidates understand recruiter-side visibility.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-818cf8?style=flat-square&logo=github&logoColor=white)](https://github.com/barathfiless)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=39d353)](https://github.com/barathfiless)
 
 </td>
 <td width="50%" valign="top">
@@ -197,7 +185,7 @@ Keyword extraction and **TF-IDF scoring** pipeline that generates ATS compatibil
 
 Startup registration portal handling **500+ form submissions**. API-driven automation cut processing time by **50%** and raised completion rates by **30%**.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-818cf8?style=flat-square&logo=github&logoColor=white)](https://github.com/barathfiless)
+[![View Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=flat-square&logo=github&logoColor=39d353)](https://github.com/barathfiless)
 
 </td>
 </tr>
