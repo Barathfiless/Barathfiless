@@ -168,9 +168,9 @@ print(me.motto())
 |:--------|:------|:-----------|
 | [**StockSync** — Inventory Management](https://github.com/barathfiless) | MongoDB · Express.js · React.js · Node.js | 🗄️ Handles **1,000+ records** · 20+ RESTful APIs · **30–35% faster** DB retrieval via query optimisation |
 | [**VHire** — Interview Portal](https://github.com/barathfiless) | MongoDB · Express.js · React.js · Node.js | 👥 Role-based platform (Candidate / Company / Admin) · 25+ APIs · **45% reduction** in manual coordination |
-| [**OPTIMUS** — Search Engine](https://github.com/barathfiless) | Python · FastAPI · React.js · NLTK · TF-IDF | 🔍 Full-stack search from scratch · web crawling · TF-IDF ranking · real-time query interface |
-| [**Optimus LLM** — Conversational AI](https://github.com/barathfiless) | Python · Ollama · QLoRA · Qwen 2.5 · REST APIs | 🤖 Local LLM deployment · QLoRA fine-tuning → **40% accuracy boost** · context-aware interactions |
-| [**Multilingual NLP Chatbot**](https://github.com/barathfiless) | Python · NLP · ML Models · REST APIs | 🌐 Tamil-English (Tanglish) chatbot · text preprocessing + fine-tuning → **35% relevance improvement** |
+| [**Crawlix** — Search Engine](https://github.com/barathfiless) | Python · FastAPI · React.js · NLTK · TF-IDF | 🔍 Full-stack search from scratch · web crawling · TF-IDF ranking · real-time query interface |
+| [**Optimus RAG** — PDF Reader](https://github.com/barathfiless) | Python · SQLite · FastAPI · NLTK · Vector Embeddings | 🤖 Local RAG deployment · Indexing · Vector Embeddings · Retrieve |
+| [**AI Resume Builder & ATS Checker**](https://github.com/barathfiless) | Python · NLP · FastAPI · REST APIs | 📄 AI Resume Builder & ATS Scorer · Keywords preprocessing + TF-IDF → ATS Score |
 | [**StartupEase** — AYUSH Portal](https://github.com/barathfiless) | PostgreSQL · Express.js · React.js · Node.js | 📋 500+ form submissions handled · **50% faster** processing · **30% higher** user completion rate |
 
 </div>
