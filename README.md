@@ -23,48 +23,65 @@
 
 ---
 
-## Who I Am
-
-I'm **Barath M** — a **B.Tech Computer Science & Business Systems** graduate from **Bannari Amman Institute of Technology**, Tamil Nadu, building at the intersection of full-stack engineering and applied AI.
-
-My work lives in two worlds. On the engineering side, I architect **MERN-stack systems** and **RESTful backends** with FastAPI that handle real load and real users. On the AI side, I build **RAG pipelines**, fine-tune **LLMs with QLoRA**, and ship NLP tooling that solves real problems.
-
-I care deeply about writing **clean, production-ready code** — not just prototypes. Every project I ship has measurable impact: faster queries, fewer manual steps, higher throughput.
-
-Open to **freelance work**, collaborations, and meaningful open-source contributions.
-
-> *"Build fast · Learn faster · Ship real things."*
-
----
-
 ## Tech Stack
 
 <div align="center">
 
-### Languages
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark&perline=5"/>
 
-### Frontend & Backend
+</td>
+<td align="center" width="50%">
+
+**Frontend & Backend**
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark&perline=4"/>
 
-### AI · ML · NLP
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+**AI · ML · NLP**
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=3"/>
-&nbsp;&nbsp;
+
+<br/>
+
 <a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e" height="44"/></a>
 &nbsp;
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" height="44"/></a>
 &nbsp;
 <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e" height="44"/></a>
 
-### Databases
+</td>
+<td align="center" width="50%">
+
+**Databases**
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark&perline=4"/>
 
-### Tools · Cloud · DevOps
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+**Tools · Cloud · DevOps**
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode,postman&theme=dark&perline=6"/>
 
-</div>
+</td>
+</tr>
+</table>
 
----
+</div>
 
 ## GitHub Analytics
 
