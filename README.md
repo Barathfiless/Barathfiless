@@ -5,7 +5,28 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=818CF8&center=true&vCenter=true&repeat=true&width=750&lines=%F0%9F%9A%80+Building+Intelligent+Fullstack+Products;%F0%9F%A4%96+MERN+%7C+FastAPI+%7C+LLMs+%7C+RAG+Pipelines;%E2%9A%A1+Fine-tuning+Models+with+QLoRA+%26+PEFT;%F0%9F%8C%9F+Turning+Ideas+into+Shipped+Software"/>
+
+<!-- ═══════════════ OPTIMUS BOOT SEQUENCE ═══════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1600&pause=300&color=FF6B00&center=true&vCenter=true&repeat=false&width=760&lines=%E2%96%88%E2%96%88%E2%96%88+OPTIMUS+CORE+v2.0.26+%E2%96%88%E2%96%88%E2%96%88"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1400&pause=200&color=F5A623&center=true&vCenter=true&repeat=false&width=760&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80+INITIALIZING+NEURAL+CORE+...+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=38BDF8&center=true&vCenter=true&repeat=false&width=760&lines=%5B+SYSTEM+%5D+........+ONLINE+%E2%9C%94"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=38BDF8&center=true&vCenter=true&repeat=false&width=760&lines=%5B+STACK+%5D+..........+MERN+%7C+FastAPI+%7C+Python+%7C+Java+%E2%9C%94"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=300&color=38BDF8&center=true&vCenter=true&repeat=false&width=760&lines=%5B+AI+CORE+%5D+.......+RAG+%7C+QLoRA+%7C+NLP+%7C+Embeddings+%E2%9C%94"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=300&color=4ADE80&center=true&vCenter=true&repeat=false&width=760&lines=%5B+STATUS+%5D+.......+ALL+SYSTEMS+OPERATIONAL+%E2%9C%94"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=500&color=FF6B00&center=true&vCenter=true&repeat=false&width=760&lines=%E2%96%B6%E2%96%B6+AUTOBOTS+...+ROLL+OUT+%F0%9F%A4%96"/>
+
+<br/>
+
+<!-- ═══════════════ LOOPING TAGLINE ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=818CF8&center=true&vCenter=true&repeat=true&width=760&lines=Building+Intelligent+Fullstack+Products;MERN+%7C+FastAPI+%7C+LLMs+%7C+RAG+Pipelines;Fine-tuning+Models+with+QLoRA+%26+PEFT;Turning+Ideas+into+Shipped+Software"/>
+
 </div>
 
 <br/>
