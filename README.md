@@ -18,36 +18,24 @@
       <stop offset="100%" style="stop-color:#0d0220;stop-opacity:0"/>
     </radialGradient>
   </defs>
-
-  <!-- Background -->
   <rect width="900" height="280" fill="url(#bgGrad)"/>
-
-  <!-- Glow blob -->
   <ellipse cx="450" cy="130" rx="340" ry="120" fill="url(#glow)"/>
-
-  <!-- Decorative dots -->
-  <circle cx="80"  cy="50"  r="2" fill="#a5b4fc" opacity="0.4"/>
-  <circle cx="820" cy="60"  r="2" fill="#a5b4fc" opacity="0.4"/>
+  <circle cx="80"  cy="50"  r="2"   fill="#a5b4fc" opacity="0.4"/>
+  <circle cx="820" cy="60"  r="2"   fill="#a5b4fc" opacity="0.4"/>
   <circle cx="150" cy="220" r="1.5" fill="#818cf8" opacity="0.3"/>
   <circle cx="760" cy="210" r="1.5" fill="#818cf8" opacity="0.3"/>
   <circle cx="50"  cy="150" r="1"   fill="#c7d2fe" opacity="0.3"/>
   <circle cx="860" cy="160" r="1"   fill="#c7d2fe" opacity="0.3"/>
   <circle cx="230" cy="40"  r="1.5" fill="#818cf8" opacity="0.25"/>
   <circle cx="670" cy="35"  r="1.5" fill="#818cf8" opacity="0.25"/>
-
-  <!-- Bottom wave -->
   <path d="M0,220 C120,200 240,240 360,215 C480,190 600,235 720,210 C800,195 860,215 900,205 L900,280 L0,280 Z"
         fill="url(#waveGrad)"/>
   <path d="M0,240 C150,220 300,255 450,235 C600,215 750,248 900,230 L900,280 L0,280 Z"
         fill="#0d1117" opacity="0.6"/>
-
-  <!-- Name -->
   <text x="450" y="118"
         font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
         font-size="66" font-weight="700" letter-spacing="3"
         fill="white" text-anchor="middle">Barath M</text>
-
-  <!-- Subtitle -->
   <text x="450" y="162"
         font-family="JetBrains Mono, Courier New, monospace"
         font-size="17" font-weight="500" letter-spacing="0.5"
@@ -69,10 +57,18 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/barathh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:barathfiless@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/barathfiless/"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=barathfiless&color=818cf8&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<a href="https://linkedin.com/in/barathh/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>&ensp;
+<a href="mailto:barathfiless@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>&ensp;
+<a href="https://github.com/barathfiless/">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white"/>
+</a>&ensp;
+<img src="https://komarev.com/ghpvc/?username=barathfiless&color=818cf8&style=flat-square&label=Profile+Views"/>
+
 </div>
 
 <br/>
@@ -110,11 +106,11 @@
 
 <br/>
 
-<a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e" height="44"/></a>
+<a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=1a1a2e" height="28"/></a>
 &nbsp;
-<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" height="44"/></a>
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e" height="28"/></a>
 &nbsp;
-<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e" height="44"/></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e" height="28"/></a>
 
 </td>
 <td align="center" width="50%">
