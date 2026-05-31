@@ -1,5 +1,61 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0220,20:16004a,50:0a1a5c,80:001a3d,100:0d1117&height=260&section=header&text=Barath%20M&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=%3C%20Full%20Stack%20%7C%20Machine%20Learning%20%7C%20AI%20Engineer%20%2F%3E&descAlignY=63&descSize=19&descColor=a5b4fc"/>
+
+<svg width="100%" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   style="stop-color:#0d0220"/>
+      <stop offset="20%"  style="stop-color:#16004a"/>
+      <stop offset="50%"  style="stop-color:#0a1a5c"/>
+      <stop offset="80%"  style="stop-color:#001a3d"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   style="stop-color:#a5b4fc;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   style="stop-color:#6366f1;stop-opacity:0.18"/>
+      <stop offset="100%" style="stop-color:#0d0220;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bgGrad)"/>
+
+  <!-- Glow blob -->
+  <ellipse cx="450" cy="130" rx="340" ry="120" fill="url(#glow)"/>
+
+  <!-- Decorative dots -->
+  <circle cx="80"  cy="50"  r="2" fill="#a5b4fc" opacity="0.4"/>
+  <circle cx="820" cy="60"  r="2" fill="#a5b4fc" opacity="0.4"/>
+  <circle cx="150" cy="220" r="1.5" fill="#818cf8" opacity="0.3"/>
+  <circle cx="760" cy="210" r="1.5" fill="#818cf8" opacity="0.3"/>
+  <circle cx="50"  cy="150" r="1"   fill="#c7d2fe" opacity="0.3"/>
+  <circle cx="860" cy="160" r="1"   fill="#c7d2fe" opacity="0.3"/>
+  <circle cx="230" cy="40"  r="1.5" fill="#818cf8" opacity="0.25"/>
+  <circle cx="670" cy="35"  r="1.5" fill="#818cf8" opacity="0.25"/>
+
+  <!-- Bottom wave -->
+  <path d="M0,220 C120,200 240,240 360,215 C480,190 600,235 720,210 C800,195 860,215 900,205 L900,280 L0,280 Z"
+        fill="url(#waveGrad)"/>
+  <path d="M0,240 C150,220 300,255 450,235 C600,215 750,248 900,230 L900,280 L0,280 Z"
+        fill="#0d1117" opacity="0.6"/>
+
+  <!-- Name -->
+  <text x="450" y="118"
+        font-family="Segoe UI, Helvetica Neue, Arial, sans-serif"
+        font-size="66" font-weight="700" letter-spacing="3"
+        fill="white" text-anchor="middle">Barath M</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="162"
+        font-family="JetBrains Mono, Courier New, monospace"
+        font-size="17" font-weight="500" letter-spacing="0.5"
+        fill="#a5b4fc" text-anchor="middle">
+    &lt; Full Stack | Machine Learning | AI Engineer /&gt;
+  </text>
+</svg>
+
 </div>
 
 <br/>
