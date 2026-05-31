@@ -17,7 +17,7 @@
 <a href="https://github.com/barathfiless/">
   <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white"/>
 </a>&ensp;
-<img src="https://komarev.com/ghpvc/?username=barathfiless&color=818cf8&style=flat-square&label=Profile+Views"/>
+<img src="https://hits.sh/github.com/barathfiless/barathfiless.svg?style=flat-square&label=Profile+Views&color=818cf8&labelColor=1e1b4b&extraCount=2890"/>
 
 </div>
 
